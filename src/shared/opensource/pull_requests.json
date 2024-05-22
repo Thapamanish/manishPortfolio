@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NzE0NDYxODMx",
+      "title": "add LinkedList solution for separating odd and even nodes",
+      "url": "https://github.com/TheAlgorithms/Python/pull/4625",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2021-08-17T18:07:37Z",
+      "number": 4625,
+      "changedFiles": 1,
+      "additions": 133,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Python",
+        "url": "https://github.com/TheAlgorithms/Python",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20487725?v=4",
+          "login": "TheAlgorithms",
+          "url": "https://github.com/TheAlgorithms"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NzE0NDU1NjI4",
+      "title": "add linkedlist solution for separating odd and even nodes",
+      "url": "https://github.com/TheAlgorithms/Python/pull/4624",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2021-08-17T17:57:34Z",
+      "number": 4624,
+      "changedFiles": 1,
+      "additions": 133,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Python",
+        "url": "https://github.com/TheAlgorithms/Python",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20487725?v=4",
+          "login": "TheAlgorithms",
+          "url": "https://github.com/TheAlgorithms"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NzE0NDA4MTkz",
+      "title": "add resources for HTML and CSS",
+      "url": "https://github.com/vicky002/AlgoWiki/pull/359",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25800891?v=4",
+        "url": "https://github.com/Byte7",
+        "login": "Byte7"
+      },
+      "createdAt": "2021-08-17T16:43:06Z",
+      "number": 359,
+      "changedFiles": 1,
+      "additions": 9,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "AlgoWiki",
+        "url": "https://github.com/vicky002/AlgoWiki",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/5517129?u=6ec486f78ca5468fa233e4bc2101f8ac73634f7e&v=4",
+          "login": "vicky002",
+          "url": "https://github.com/vicky002"
+        }
+      }
+    }
+  ],
+  "open": 0,
+  "closed": 2,
+  "merged": 1,
+  "totalCount": 3
+}
