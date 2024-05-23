@@ -131,4 +131,4 @@ export const myTheme = {
   headerColor: "#0E6BA877",
 };
 
-export const chosenTheme = myTheme;
+export const chosenTheme = violetTheme;
