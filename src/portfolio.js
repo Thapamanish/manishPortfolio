@@ -299,11 +299,44 @@ const degrees = {
       ],
       website_link: "https://www.drait.edu.in/",
     },
+    {
+      title: "Manimukunda College",
+      subtitle: "Intermediate-level education",
+      logo_path: "manimukunda_logo.png",
+      alt_name: "Manimukunda College, Butwal",
+      duration: "2016 - 2018",
+      descriptions: [
+        "⚡ I completed my 11th and 12th grade education at this institute l where I learned subjects such as mathematics, physics, chemistry, biology and English.",
+        "⚡ These courses provided me with a solid foundation of knowledge and skills that I have been able to apply throughout my academic and professional career.",
+      ],
+      website_link: "https://www.linkedin.com/company/manimukunda-college-butwal/",
+    },
+    {
+      title: "New Horizon English Boarding Secondary School",
+      subtitle: "Secondary-level education",
+      logo_path: "nhi_logo.png",
+      alt_name: "new horizon school, Butwal",
+      duration: "2008 - 2016",
+      descriptions: [
+        "⚡ I completed my primary and secondary education at this institute, where I gained knowledge and skills in a diverse range of subjects, including mathematics, science, English, and social studies.",
+        "⚡ This education provided me with a solid academic foundation, which has been instrumental in shaping my career path and achieving my professional goals.",
+      ],
+      website_link: "https://newhorizon.edu.np/",
+    },
   ],
 };
 
 const certifications = {
   certifications: [
+    {
+      title: "Post Graduate Program in Cloud Computing",
+      subtitle: "- Simplilearn",
+      logo_path: "simplilearn_logo.png",
+      certificate_link:
+          "https://success.simplilearn.com/82214381",
+      alt_name: "Simplilearn",
+      color_code: "#fff",
+    },
     {
       title: "AWS Cloud Technical Essentials",
       subtitle: "- Amazon Web Services",
@@ -328,8 +361,8 @@ const certifications = {
       logo_path: "robotics_logo.png",
       certificate_link:
         "https://drive.google.com/file/d/1ndv3ZNBIHry4DuuEqZy93IQYokU7cR_r/view?usp=sharing",
-      alt_name: "Stanford University",
-      color_code: "#C8F6ED",
+      alt_name: "Infi Zeal",
+      color_code: "#fff",
     },
 
   ],
@@ -451,21 +484,22 @@ const contactPageData = {
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Backend, Frontend, React, Cloud and Opensource Development.",
   },
   blogSection: {
-    title: "My first Ever Portfolio",
+    title: "My Blog",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://manishthapa.herokuapp.com/",
+    link: "https://engineerfromnepal.com/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
-    title: "Address",
+    title: "I am from",
     subtitle: "Butwal, Nepal",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/HxC2UpsXfWwdowdh6",
+    link: "https://topmate.io/iammanish041",
   },
-  phoneSection: {
-    title: "Phone Number",
-    subtitle: "+91 9108390566",
+  emailSection: {
+    title: "My Best Email",
+    subtitle: "iammanish042@gmail.com",
+
   },
 };
 
